@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sriram510
+- 👋 Hi, I’m Sriram Swain
 - 👀 I’m interested in rocket propulsion and attitude control systems
 - 🌱 I’m currently learning electrical and electronic engineering
 - 💞️ I’m looking to collaborate on space travel and society
